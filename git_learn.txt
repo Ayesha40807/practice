@@ -1,7 +1,2 @@
-
-This is my 1st repo
-I am adding new line to existing and commited one
-Hi I am adding this new line here 
-I am looking for stash right now
-
+I am looking for stash changes
 
